@@ -27,3 +27,13 @@
     padding-top: 45px;
     padding-bottom: 30px;
 }
+
+.img_class{
+	width: 660;
+	border: solid 1px gray;
+	margin-top: 15px;
+}
+.img_row{
+	padding-left: 15px;
+	padding-right: 15px;
+}
